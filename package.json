@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">✨ Full-Stack Interview Platform ✨</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansanwal0008/talent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sansanwal0008/talent/issues"
+  },
+  "homepage": "https://github.com/sansanwal0008/talent#readme"
 }
